@@ -1,0 +1,21 @@
+Question: What is my name?
+a) adam
+b) john
+c) jabin
+d) arthur
+Answer: a
+
+Question: what is my age?
+a) 10
+b) 20
+c) 30
+d) 40
+Answer: b
+
+Question: what is 2 + 2?
+a) 2
+b) 3
+c) 4
+d) 5
+Answer: c
+
