@@ -1,14 +1,10 @@
-Question: What is my name?
-a) Adam
-b) Arthur
-c) John
-d) Jabin
-Answer: a
-
-Question: What is my age?
-a) 10
-b) 20
-c) 30
-d) 40
-Answer: b
-
+[
+    {
+        "question": "what is my name?",
+        "a": "adam",
+        "b": "jabin",
+        "c": "john",
+        "d": "arthur",
+        "correct_choice": "a"
+    }
+]
