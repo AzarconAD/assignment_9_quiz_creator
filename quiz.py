@@ -8,8 +8,9 @@ score = 0
 
 # read the quiz file 
 with open("quiz.txt", "r") as file:
-    data = json.load(file)
-    print(data["question"])
+    print(file.read())
+
+
 
 # display a random question
 # ask user for their answer

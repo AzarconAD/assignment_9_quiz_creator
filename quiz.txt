@@ -1,10 +1,42 @@
 [
     {
-        "question": "what is my name?",
-        "a": "adam",
-        "b": "jabin",
-        "c": "john",
-        "d": "arthur",
+        "question": "What is my name?",
+        "a": "Adam",
+        "b": "Jabin",
+        "c": "John",
+        "d": "Arthur",
         "correct_choice": "a"
+    },
+    {
+        "question": "What is my age?",
+        "a": "10",
+        "b": "20",
+        "c": "30",
+        "d": "40",
+        "correct_choice": "b"
+    },
+    {
+        "question": "What color is my shirt?",
+        "a": "White",
+        "b": "Black",
+        "c": "Green",
+        "d": "Blue",
+        "correct_choice": "b"
+    },
+    {
+        "question": "What am I drinking right now?",
+        "a": "Milk",
+        "b": "Choco",
+        "c": "Coffee",
+        "d": "Soda",
+        "correct_choice": "c"
+    },
+    {
+        "question": "What is the day today?",
+        "a": "Sun",
+        "b": "MOn",
+        "c": "Tues",
+        "d": "Wed",
+        "correct_choice": "d"
     }
 ]
