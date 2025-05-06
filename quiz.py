@@ -2,7 +2,6 @@ import json
 import random
 
 # display quiz details
-print("Instruction:\n1.) only enter characters a, b, c, d.\n2.) lowercase only.\n")
 print("Instructions:\n1.) only enter characters a, b, c, d.\n2.) lowercase only.\n")
 
 # read the quiz file 
@@ -35,5 +34,5 @@ for questions in quiz:
     if user_answer == key:
         score += 1
 
-    # display final score
-    print(f"Your final score is {score}/{total}")
+# display final score
+print(f"Your final score is {score}/{total}")
